@@ -16,3 +16,12 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+# Contributing to this repository
+
+## Code review guidelines
+
+We follow a fixed version of the C2C ISO guidelines.  
+Please refer to the following document for the detailed code review process:
+
+[C2C ISO Code Review Guidelines](https://github.com/camptocamp/c2c_iso_guidelines/blob/c63b957/geospatial/code_review.md)
